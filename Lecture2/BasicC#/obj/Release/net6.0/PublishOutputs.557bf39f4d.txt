@@ -1,0 +1,5 @@
+C:\Users\DeLL\Desktop\publish\BasicC#.exe
+C:\Users\DeLL\Desktop\publish\BasicC#.dll
+C:\Users\DeLL\Desktop\publish\BasicC#.deps.json
+C:\Users\DeLL\Desktop\publish\BasicC#.runtimeconfig.json
+C:\Users\DeLL\Desktop\publish\BasicC#.pdb
