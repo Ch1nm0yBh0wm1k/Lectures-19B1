@@ -12,3 +12,18 @@ C:\Users\DeLL\Desktop\class 2\BasicC#\BasicC#\obj\Release\net6.0\refint\BasicC#.
 C:\Users\DeLL\Desktop\class 2\BasicC#\BasicC#\obj\Release\net6.0\BasicC#.pdb
 C:\Users\DeLL\Desktop\class 2\BasicC#\BasicC#\obj\Release\net6.0\BasicC#.genruntimeconfig.cache
 C:\Users\DeLL\Desktop\class 2\BasicC#\BasicC#\obj\Release\net6.0\ref\BasicC#.dll
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\bin\Release\net6.0\BasicC#.exe
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\bin\Release\net6.0\BasicC#.deps.json
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\bin\Release\net6.0\BasicC#.runtimeconfig.json
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\bin\Release\net6.0\BasicC#.dll
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\bin\Release\net6.0\BasicC#.pdb
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.AssemblyInfoInputs.cache
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.AssemblyInfo.cs
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.csproj.CoreCompileInputs.cache
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.sourcelink.json
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.dll
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\refint\BasicC#.dll
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.pdb
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\BasicC#.genruntimeconfig.cache
+E:\ProjectsEdge\19B2\Lectures-19B1\Lecture2\BasicC#\obj\Release\net6.0\ref\BasicC#.dll

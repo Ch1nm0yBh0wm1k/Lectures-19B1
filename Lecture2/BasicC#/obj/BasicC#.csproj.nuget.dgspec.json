@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\BasicC#.csproj": {}
+    "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\BasicC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\BasicC#.csproj": {
+    "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\BasicC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\BasicC#.csproj",
+        "projectUniqueName": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\BasicC#.csproj",
         "projectName": "BasicC#",
-        "projectPath": "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\BasicC#.csproj",
+        "projectPath": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\BasicC#.csproj",
         "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\obj\\",
+        "outputPath": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",

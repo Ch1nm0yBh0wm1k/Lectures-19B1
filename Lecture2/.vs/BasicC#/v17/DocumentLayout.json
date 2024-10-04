@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\",
+  "WorkspaceRootPath": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828F8E56-3BFA-4181-AFB2-BD553222B0B5}|BasicC#\\BasicC#.csproj|c:\\users\\dell\\desktop\\class 2\\basicc#\\basicc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{828F8E56-3BFA-4181-AFB2-BD553222B0B5}|BasicC#\\BasicC#.csproj|e:\\projectsedge\\19b2\\lectures-19b1\\lecture2\\basicc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{828F8E56-3BFA-4181-AFB2-BD553222B0B5}|BasicC#\\BasicC#.csproj|solutionrelative:basicc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\Program.cs",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\Program.cs",
               "RelativeDocumentMoniker": "BasicC#\\Program.cs",
-              "ToolTip": "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\Program.cs",
+              "ToolTip": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\Program.cs",
               "RelativeToolTip": "BasicC#\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvzIAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T03:31:42.816Z",
               "EditorCaption": ""

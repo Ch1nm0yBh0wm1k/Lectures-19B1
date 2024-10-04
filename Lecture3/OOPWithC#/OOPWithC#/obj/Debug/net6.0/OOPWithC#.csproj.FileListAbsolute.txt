@@ -1,0 +1,14 @@
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\bin\Debug\net6.0\OOPWithC#.exe
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\bin\Debug\net6.0\OOPWithC#.deps.json
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\bin\Debug\net6.0\OOPWithC#.runtimeconfig.json
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\bin\Debug\net6.0\OOPWithC#.dll
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\bin\Debug\net6.0\OOPWithC#.pdb
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\OOPWithC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\OOPWithC#.AssemblyInfoInputs.cache
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\OOPWithC#.AssemblyInfo.cs
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\OOPWithC#.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\OOPWithC#.dll
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\refint\OOPWithC#.dll
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\OOPWithC#.pdb
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\OOPWithC#.genruntimeconfig.cache
+C:\Users\DeLL\Desktop\19B2\OOPWithC#\OOPWithC#\obj\Debug\net6.0\ref\OOPWithC#.dll

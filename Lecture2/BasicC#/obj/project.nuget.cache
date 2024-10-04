@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3uhcmg18KujlZ0KdRojpjEsjcS0W4bRah/ZiEzh0PS57shl6x/d/oF6cUfTSjczz8n30CJL1iPBxwlvQkczrGw==",
+  "dgSpecHash": "K5jbAmtQSec4vboRwW2+1qtRrD3J7Izz+AbwIEGp/waEBp4aulug2BVyOmiaEEepOm5zx1V59WUHerBBmecD+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DeLL\\Desktop\\class 2\\BasicC#\\BasicC#\\BasicC#.csproj",
+  "projectFilePath": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture2\\BasicC#\\BasicC#.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
     "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
