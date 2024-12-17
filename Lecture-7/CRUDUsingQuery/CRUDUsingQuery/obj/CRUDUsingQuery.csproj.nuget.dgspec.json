@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj": {}
+    "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj": {
+    "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj",
+        "projectUniqueName": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj",
         "projectName": "CRUDUsingQuery",
-        "projectPath": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj",
+        "projectPath": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\CRUDUsingQuery.csproj",
         "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\obj\\",
+        "outputPath": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",

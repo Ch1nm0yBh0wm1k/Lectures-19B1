@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDUsingQuery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5836a329463058e69ce54b94efa46d2282f4cecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDUsingQuery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDUsingQuery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

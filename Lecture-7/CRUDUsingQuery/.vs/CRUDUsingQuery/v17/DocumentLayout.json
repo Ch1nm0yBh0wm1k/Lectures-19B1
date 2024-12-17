@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\",
+  "WorkspaceRootPath": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\19b2\\crudusingquery\\crudusingquery\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|e:\\projectsedge\\19b2\\lectures-19b1\\lecture-7\\crudusingquery\\crudusingquery\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\19b2\\crudusingquery\\crudusingquery\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|e:\\projectsedge\\19b2\\lectures-19b1\\lecture-7\\crudusingquery\\crudusingquery\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\19b2\\crudusingquery\\crudusingquery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|e:\\projectsedge\\19b2\\lectures-19b1\\lecture-7\\crudusingquery\\crudusingquery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\19b2\\crudusingquery\\crudusingquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|e:\\projectsedge\\19b2\\lectures-19b1\\lecture-7\\crudusingquery\\crudusingquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\19b2\\crudusingquery\\crudusingquery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|e:\\projectsedge\\19b2\\lectures-19b1\\lecture-7\\crudusingquery\\crudusingquery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\19b2\\crudusingquery\\crudusingquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|e:\\projectsedge\\19b2\\lectures-19b1\\lecture-7\\crudusingquery\\crudusingquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -68,63 +68,59 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T05:50:39.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:50:39.878Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
               "RelativeToolTip": "CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T05:17:38.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:17:38.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Program.cs",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Program.cs",
               "RelativeDocumentMoniker": "CRUDUsingQuery\\Program.cs",
-              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Program.cs",
+              "ToolTip": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Program.cs",
               "RelativeToolTip": "CRUDUsingQuery\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T04:28:57.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T04:28:57.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Models\\Customer.cs",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "CRUDUsingQuery\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Models\\Customer.cs",
+              "ToolTip": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Models\\Customer.cs",
               "RelativeToolTip": "CRUDUsingQuery\\Models\\Customer.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T04:06:10.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T04:06:10.677Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "CRUDUsingQuery\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "CRUDUsingQuery\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAA7wDsAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvzYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T03:48:56.631Z",
               "EditorCaption": ""
@@ -133,14 +129,13 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CRUDUsingQuery\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DeLL\\Desktop\\19b2\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ProjectsEdge\\19B2\\Lectures-19B1\\Lecture-7\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CRUDUsingQuery\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:45:04.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T03:45:04.557Z"
             }
           ]
         }

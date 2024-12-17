@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\new folder\\crudusingquery\\crudusingquery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\new folder\\crudusingquery\\crudusingquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\new folder\\crudusingquery\\crudusingquery\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\new folder\\crudusingquery\\crudusingquery\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\new folder\\crudusingquery\\crudusingquery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\new folder\\crudusingquery\\crudusingquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|c:\\users\\dell\\desktop\\new folder\\crudusingquery\\crudusingquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D9F02-20CC-4641-AF38-2E6844124628}|CRUDUsingQuery\\CRUDUsingQuery.csproj|solutionrelative:crudusingquery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDUsingQuery\\appsettings.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\appsettings.json",
+              "RelativeToolTip": "CRUDUsingQuery\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T11:29:31.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDUsingQuery\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:50:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "CRUDUsingQuery\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:17:38.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDUsingQuery\\Program.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Program.cs",
+              "RelativeToolTip": "CRUDUsingQuery\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:28:57.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CRUDUsingQuery\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Models\\Customer.cs",
+              "RelativeToolTip": "CRUDUsingQuery\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:06:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CRUDUsingQuery\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CRUDUsingQuery\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:48:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDUsingQuery\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\New folder\\CRUDUsingQuery\\CRUDUsingQuery\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDUsingQuery\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:45:04.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
